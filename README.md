@@ -1,6 +1,6 @@
-# Juegodemesa
-Juego de mesa (Betrayal at the house on the hill)
-# Personajes
+# Betrayal at the house on the hill
+
+## Personajes
 - Atributos físicos
   - Velocidad
   - Poder
@@ -11,30 +11,30 @@ Juego de mesa (Betrayal at the house on the hill)
 mental, en los atributos mentales. Si llega a cero, el personaje fallece.
 
 
-# Valores iniciales
-## Brandon Jaspers
+## Valores iniciales
+### Brandon Jaspers
 - Velocidad: 4
 - Poder: 4
 - Cordura: 4
 - Conocimiento: 3
-## Zoe Ingstrom
+### Zoe Ingstrom
 - Velocidad: 4
 - Poder: 3
 - Cordura: 5
 - Conocimiento: 3
-## Father Rhinohardt
+### Father Rhinohardt
 - Velocidad: 3
 - Poder: 2
 - Cordura: 6
 - Conocimiento: 4
-# Estructura de la casa
-## PLANTA BAJA
+## Estructura de la casa
+### PLANTA BAJA
 - Entrada (Entrance Hall), la sala (Foyer) y las escaleras (Grand Staircase).
-## SÓTANO
+### SÓTANO
 - Entrada al sótano (Basement Landing).
-## PISO DE ARRIBA
+### PISO DE ARRIBA
 - Piso superior (Upper landing).
-# Cada turno
+## Cada turno
 - Tomar una carta
   - Cada carta indica un cuarto a explorar y se posiciona de acuerdo con el piso
 que corresponda.
