@@ -14,6 +14,10 @@ class specsJugadores{
         int dados;
     
     public:
+        void tirarDados(int canttiros){
+
+            
+        }
 //         void nuevoJugador(){
 //             nombre = strNombre;
 //             direccion = strDireccion;
